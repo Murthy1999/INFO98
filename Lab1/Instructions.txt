@@ -1,0 +1,9 @@
+Welcome to Lab 1!
+
+Shoutout to Hanalei for taking ownership over content creation and Varun for lecturing on Pandas this week!
+Please follow the submission instructions on the Piazza post and attend OH if you have any issues. 
+This assignment shouldn't take you more than 20 mins.
+
+Go Bears!
+
+Data Science for Everyone
